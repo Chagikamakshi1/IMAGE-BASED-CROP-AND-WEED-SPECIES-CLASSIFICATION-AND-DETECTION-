@@ -1,0 +1,2 @@
+# IMAGE-BASED-CROP-AND-WEED-SPECIES-CLASSIFICATION-AND-DETECTION-
+The major objective of the project are: 1)To compare different image segmentation methods and find the best image segmentation method for Maize, Okra, Peanut, Cotton, Bengalgram, Sorghum crop species and Bermudagrass, Velvetleaf, Parthenium and Chrozophora weed images   2)To categorize and detect used Neural networks and computer vision
